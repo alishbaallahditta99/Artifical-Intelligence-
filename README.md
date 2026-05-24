@@ -7,7 +7,7 @@ The objective of this project is to predict housing prices using both:
 
 This project demonstrates multimodal machine learning by combining CNN-extracted image features with tabular housing features.
 
----
+
 
 # Dataset
 Dataset used:
@@ -18,7 +18,7 @@ Dataset contains:
 - Property prices
 - House-related features
 
----
+
 
 # Technologies Used
 - Python
@@ -29,7 +29,7 @@ Dataset contains:
 - NumPy
 - Matplotlib
 
----
+
 
 # Methodology
 
@@ -53,7 +53,7 @@ using feature fusion.
 - Built deep learning regression model
 - Predicted property values
 
----
+
 
 # Evaluation Metrics
 
@@ -65,7 +65,6 @@ MAE measures average prediction error.
 
 RMSE penalizes larger prediction errors.
 
----
 
 # Results
 The multimodal model successfully combined image and tabular features for housing price prediction.
@@ -76,15 +75,4 @@ Outputs included:
 - MAE
 - RMSE
 
----
 
-# Repository Structure
-
-```text
-project/
-│
-├── data/
-├── notebook/
-├── images/
-├── results/
-├── README.md# Artifical-Intelligence-
